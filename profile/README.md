@@ -1,12 +1,27 @@
-## Hi there 👋
+# Graxa-Hub
 
-<!--
+Bem-vindo à organização **Graxa-Hub** no GitHub!
 
-**Here are some ideas to get you started:**
+## Sobre o projeto Graxa
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+O Graxa é um software web desenvolvido para auxiliar no gerenciamento de shows e turnês, voltado para produtores culturais. Nosso objetivo é facilitar a organização e o controle de eventos musicais com uma plataforma eficiente e moderna.
+
+## Estrutura do projeto
+
+- **[Graxa_Web](https://github.com/Graxa-Hub/Graxa_Web)**: Repositório do frontend da aplicação, desenvolvido em React e JavaScript. Aqui você encontra a interface que os usuários irão utilizar para gerenciar shows e turnês.
+- **[graxa-api](https://github.com/Graxa-Hub/graxa-api)**: Repositório do backend, desenvolvido com Spring Web. Responsável por toda a lógica de negócio, APIs e integração com o frontend.
+
+## Como contribuir
+
+Contribuições são muito bem-vindas! Se quiser ajudar no desenvolvimento, visite os repositórios principais, abra issues ou faça pull requests.
+
+## Contato
+
+Para dúvidas, sugestões ou parcerias, entre em contato conosco via e-mail:
+
+- gabriel.sousa@sptech.school  
+- macari.pinho@sptech.school  
+- erickhlee@sptech.school
+
+
+Obrigado por visitar a Graxa-Hub!
